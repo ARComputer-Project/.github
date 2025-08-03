@@ -3,6 +3,10 @@ ARC concept can be described as a smartphone + Flipper Zero + devboard + LoRa ME
 The main goals are:
 1) To create the network for free communications, without ISPs, censorship and spyware.
 2) To create fully DIY opensource pocket computer/phone, which would be either minimalistic or functional depending on setup.
+
+The main philosophical goal of this project is to return back our digital freedom. No matter how much you try - you will never censor radiowaves. 
+
+__"The Internet will be free. Knowledge must flow."__
 <!--
 
 🙋‍♀️ ARC concept can be described as a smartphone + Flipper Zero + devboard + LoRa MESH node.
